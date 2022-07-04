@@ -9,3 +9,17 @@ Here are two different notebooks:
 
 - Data Exploration: Exploring the raw datasets.
 - Customer Segmentation: Segmenting the customers with Principal Component Analysis and K-Means Clustering.
+
+## Requirements 
+
+- Python 3.8
+- Jupyter Notebook 
+
+## Dependencies 
+Choose the latest versions of any of the dependencies below:
+
+- pandas
+- numpy
+- scipy
+- matplotlib
+- sklearn
